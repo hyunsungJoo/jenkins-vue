@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site" : "joo-jenkins-vue",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
